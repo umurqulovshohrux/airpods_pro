@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Montsettar";
+    src: url(./fonts/Montserrat-Black.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Prosto One";
+    src: url(./fonts/ProstoOne-Regular.ttf);
+    font-weight: 400;
+}
+
